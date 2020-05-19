@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="eOS1312/device_capricorn" path="device/xiaomi" remote="github" revision="master" />
+  <project name="eOS1312/kernel_capricorn_natrium" path="kernel/xiaomi" remote="github" revision="master" />
+  <project name="eOS1312/vendor_capricorn" path="vendor/xiaomi" remote="github" revision="master" />
+  <project name="eOS1312/bootanimation_161" path="vendor/lineage/" remote="github" revision="master" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+  <project name="LineageOS/android_device_xiaomi_capricorn" path="device/xiaomi/capricorn" remote="github" />
+  <project name="LineageOS/android_device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="github" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="github" />
+</manifest>
